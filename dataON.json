@@ -1,571 +1,474 @@
 {
-  "GuideData": {
-
-
-    "AdsController": [
-      {
-        "NetworkAds": "admob",
-        "AdMobId": "pub-3940256099942544",
-
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-
-        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeFacebook": "173186393601951_356298065290782"
-
-      }
-    ],
-
-    "items": [
-      {
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg"
-      },
-      {
-        "title": "The Old 2",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg"
-      },
-      {
-        "title": "Call of Cthulhu: Wasted Land ",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg"
-      },
-      {
-        "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg"
-      },
-      {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg"
-      },
-      {
-        "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg"
-      }
-    ],
-
-    "content1": [
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "this is Content 1",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/2.jpg",
-        "text": "1.Find a New Exit : \n \n  Using the axe, break the wood blocking the door on the left side of the room, and walk through it. Then go downstairs until you reach the Utility Shaft 9 entrance. There Henry will see the quote “HE WILL SET US FREE written on the wall (presumably by Sammy Lawrence) next to a Bendy cardboard, cans of Bacon Soup, candles and a banjo.\n Explore the room until Henry finds a tape recorded by Sammy, in which he talks about Bendy as if he was a god, and that he will save him. At the end of the tape, he asks: “Can I get an amen?, and just when the tape ends, Sammy’s voice echoes: “I said, can I get an amen?. Then head to the ink flooded hall, where Henry can hardly walk, and get through it. \n \n There, Henry will see a person passing through carrying a Bendy cardboard cutout, and just when Henry reaches him to ask him for help, he´s gone, leaving the cardboard behind. Move to the right corner of the room to unlock the next objective.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter2.jpg",
-        "text": "2.Redirect Power to the Gate : \n \n There, Henry will find a closed gate, and you will have to find 3 switches around the place. Two of them are randomly placed in the Utility Shaft 9 room, but the last one is always hidden behind several Bacon Soup cans on the shelf. These cans are located in the left corner of the room, at the base of a destroyed shelf next to the Bendy cardboard. Find and press the other 2 switches and return to the gate. This will unlock the next objective. \n Raise the Gate : At the gate, hit the lever next to it to activate it. The gate will open, and a new objective materializes in the corner",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter3.jpg",
-        "text": "3.Drain the Stairwell : \n \n Next to Henry, attached to the wall, there is a “Power\" switch, which Henry has to turn. This will cause the energy to return to the Music Department room, but it will also cause a bunch of Searchers to attack, trying to kill Henry. Hitting them with the axe once will kill them, though. Surviving the attack will activate a gate at the right side of the room, and a “Recording letter will light up. \n  Entering through this gate will lead Henry to Sammy’s Office, which entrance is also flooded by ink, with a locked closet at the right side of the room. There is a tape recorded by Wally Franks in front of the office. Listening to it will lead Henry to the next objective.\n \n Unlock Wally’s Closet :\n \n In the tape, Wally will state that he lost his keys and that they may be at one of the garbage cans located all around the place. Doing so may lead you to the recording studio, which features a bunch of chairs, an ecram, microphones hanging from the roof, a recording booth, a tape recorded by Susie Campbell, a banjo, a drum, a bass, a violin and a piano downstairs, and a projecting booth, a projector, and a tape recorded by Norman Polk upstairs",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter4.jpg",
-        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/4.jpg",
-        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
-        "isNative": "false"
-      }
-
-    ],
-    "content2": [
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "this is Content 1",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/2.jpg",
-        "text": "1.Find a New Exit : \n \n  Using the axe, break the wood blocking the door on the left side of the room, and walk through it. Then go downstairs until you reach the Utility Shaft 9 entrance. There Henry will see the quote “HE WILL SET US FREE written on the wall (presumably by Sammy Lawrence) next to a Bendy cardboard, cans of Bacon Soup, candles and a banjo.\n Explore the room until Henry finds a tape recorded by Sammy, in which he talks about Bendy as if he was a god, and that he will save him. At the end of the tape, he asks: “Can I get an amen?, and just when the tape ends, Sammy’s voice echoes: “I said, can I get an amen?. Then head to the ink flooded hall, where Henry can hardly walk, and get through it. \n \n There, Henry will see a person passing through carrying a Bendy cardboard cutout, and just when Henry reaches him to ask him for help, he´s gone, leaving the cardboard behind. Move to the right corner of the room to unlock the next objective.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter2.jpg",
-        "text": "2.Redirect Power to the Gate : \n \n There, Henry will find a closed gate, and you will have to find 3 switches around the place. Two of them are randomly placed in the Utility Shaft 9 room, but the last one is always hidden behind several Bacon Soup cans on the shelf. These cans are located in the left corner of the room, at the base of a destroyed shelf next to the Bendy cardboard. Find and press the other 2 switches and return to the gate. This will unlock the next objective. \n Raise the Gate : At the gate, hit the lever next to it to activate it. The gate will open, and a new objective materializes in the corner",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter3.jpg",
-        "text": "3.Drain the Stairwell : \n \n Next to Henry, attached to the wall, there is a “Power\" switch, which Henry has to turn. This will cause the energy to return to the Music Department room, but it will also cause a bunch of Searchers to attack, trying to kill Henry. Hitting them with the axe once will kill them, though. Surviving the attack will activate a gate at the right side of the room, and a “Recording letter will light up. \n  Entering through this gate will lead Henry to Sammy’s Office, which entrance is also flooded by ink, with a locked closet at the right side of the room. There is a tape recorded by Wally Franks in front of the office. Listening to it will lead Henry to the next objective.\n \n Unlock Wally’s Closet :\n \n In the tape, Wally will state that he lost his keys and that they may be at one of the garbage cans located all around the place. Doing so may lead you to the recording studio, which features a bunch of chairs, an ecram, microphones hanging from the roof, a recording booth, a tape recorded by Susie Campbell, a banjo, a drum, a bass, a violin and a piano downstairs, and a projecting booth, a projector, and a tape recorded by Norman Polk upstairs",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter4.jpg",
-        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/4.jpg",
-        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
-        "isNative": "false"
-      }
-
-    ],
-    "content3": [
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "this is Content 1",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/2.jpg",
-        "text": "1.Find a New Exit : \n \n  Using the axe, break the wood blocking the door on the left side of the room, and walk through it. Then go downstairs until you reach the Utility Shaft 9 entrance. There Henry will see the quote “HE WILL SET US FREE written on the wall (presumably by Sammy Lawrence) next to a Bendy cardboard, cans of Bacon Soup, candles and a banjo.\n Explore the room until Henry finds a tape recorded by Sammy, in which he talks about Bendy as if he was a god, and that he will save him. At the end of the tape, he asks: “Can I get an amen?, and just when the tape ends, Sammy’s voice echoes: “I said, can I get an amen?. Then head to the ink flooded hall, where Henry can hardly walk, and get through it. \n \n There, Henry will see a person passing through carrying a Bendy cardboard cutout, and just when Henry reaches him to ask him for help, he´s gone, leaving the cardboard behind. Move to the right corner of the room to unlock the next objective.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter2.jpg",
-        "text": "2.Redirect Power to the Gate : \n \n There, Henry will find a closed gate, and you will have to find 3 switches around the place. Two of them are randomly placed in the Utility Shaft 9 room, but the last one is always hidden behind several Bacon Soup cans on the shelf. These cans are located in the left corner of the room, at the base of a destroyed shelf next to the Bendy cardboard. Find and press the other 2 switches and return to the gate. This will unlock the next objective. \n Raise the Gate : At the gate, hit the lever next to it to activate it. The gate will open, and a new objective materializes in the corner",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter3.jpg",
-        "text": "3.Drain the Stairwell : \n \n Next to Henry, attached to the wall, there is a “Power\" switch, which Henry has to turn. This will cause the energy to return to the Music Department room, but it will also cause a bunch of Searchers to attack, trying to kill Henry. Hitting them with the axe once will kill them, though. Surviving the attack will activate a gate at the right side of the room, and a “Recording letter will light up. \n  Entering through this gate will lead Henry to Sammy’s Office, which entrance is also flooded by ink, with a locked closet at the right side of the room. There is a tape recorded by Wally Franks in front of the office. Listening to it will lead Henry to the next objective.\n \n Unlock Wally’s Closet :\n \n In the tape, Wally will state that he lost his keys and that they may be at one of the garbage cans located all around the place. Doing so may lead you to the recording studio, which features a bunch of chairs, an ecram, microphones hanging from the roof, a recording booth, a tape recorded by Susie Campbell, a banjo, a drum, a bass, a violin and a piano downstairs, and a projecting booth, a projector, and a tape recorded by Norman Polk upstairs",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter4.jpg",
-        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/4.jpg",
-        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
-        "isNative": "false"
-      }
-
-    ],
-    "content4": [
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "this is Content 1",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/2.jpg",
-        "text": "1.Find a New Exit : \n \n  Using the axe, break the wood blocking the door on the left side of the room, and walk through it. Then go downstairs until you reach the Utility Shaft 9 entrance. There Henry will see the quote “HE WILL SET US FREE written on the wall (presumably by Sammy Lawrence) next to a Bendy cardboard, cans of Bacon Soup, candles and a banjo.\n Explore the room until Henry finds a tape recorded by Sammy, in which he talks about Bendy as if he was a god, and that he will save him. At the end of the tape, he asks: “Can I get an amen?, and just when the tape ends, Sammy’s voice echoes: “I said, can I get an amen?. Then head to the ink flooded hall, where Henry can hardly walk, and get through it. \n \n There, Henry will see a person passing through carrying a Bendy cardboard cutout, and just when Henry reaches him to ask him for help, he´s gone, leaving the cardboard behind. Move to the right corner of the room to unlock the next objective.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter2.jpg",
-        "text": "2.Redirect Power to the Gate : \n \n There, Henry will find a closed gate, and you will have to find 3 switches around the place. Two of them are randomly placed in the Utility Shaft 9 room, but the last one is always hidden behind several Bacon Soup cans on the shelf. These cans are located in the left corner of the room, at the base of a destroyed shelf next to the Bendy cardboard. Find and press the other 2 switches and return to the gate. This will unlock the next objective. \n Raise the Gate : At the gate, hit the lever next to it to activate it. The gate will open, and a new objective materializes in the corner",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter3.jpg",
-        "text": "3.Drain the Stairwell : \n \n Next to Henry, attached to the wall, there is a “Power\" switch, which Henry has to turn. This will cause the energy to return to the Music Department room, but it will also cause a bunch of Searchers to attack, trying to kill Henry. Hitting them with the axe once will kill them, though. Surviving the attack will activate a gate at the right side of the room, and a “Recording letter will light up. \n  Entering through this gate will lead Henry to Sammy’s Office, which entrance is also flooded by ink, with a locked closet at the right side of the room. There is a tape recorded by Wally Franks in front of the office. Listening to it will lead Henry to the next objective.\n \n Unlock Wally’s Closet :\n \n In the tape, Wally will state that he lost his keys and that they may be at one of the garbage cans located all around the place. Doing so may lead you to the recording studio, which features a bunch of chairs, an ecram, microphones hanging from the roof, a recording booth, a tape recorded by Susie Campbell, a banjo, a drum, a bass, a violin and a piano downstairs, and a projecting booth, a projector, and a tape recorded by Norman Polk upstairs",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter4.jpg",
-        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/4.jpg",
-        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
-        "isNative": "false"
-      }
-
-    ],
-    "content5": [
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "this is Content 1",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/2.jpg",
-        "text": "1.Find a New Exit : \n \n  Using the axe, break the wood blocking the door on the left side of the room, and walk through it. Then go downstairs until you reach the Utility Shaft 9 entrance. There Henry will see the quote “HE WILL SET US FREE written on the wall (presumably by Sammy Lawrence) next to a Bendy cardboard, cans of Bacon Soup, candles and a banjo.\n Explore the room until Henry finds a tape recorded by Sammy, in which he talks about Bendy as if he was a god, and that he will save him. At the end of the tape, he asks: “Can I get an amen?, and just when the tape ends, Sammy’s voice echoes: “I said, can I get an amen?. Then head to the ink flooded hall, where Henry can hardly walk, and get through it. \n \n There, Henry will see a person passing through carrying a Bendy cardboard cutout, and just when Henry reaches him to ask him for help, he´s gone, leaving the cardboard behind. Move to the right corner of the room to unlock the next objective.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter2.jpg",
-        "text": "2.Redirect Power to the Gate : \n \n There, Henry will find a closed gate, and you will have to find 3 switches around the place. Two of them are randomly placed in the Utility Shaft 9 room, but the last one is always hidden behind several Bacon Soup cans on the shelf. These cans are located in the left corner of the room, at the base of a destroyed shelf next to the Bendy cardboard. Find and press the other 2 switches and return to the gate. This will unlock the next objective. \n Raise the Gate : At the gate, hit the lever next to it to activate it. The gate will open, and a new objective materializes in the corner",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter3.jpg",
-        "text": "3.Drain the Stairwell : \n \n Next to Henry, attached to the wall, there is a “Power\" switch, which Henry has to turn. This will cause the energy to return to the Music Department room, but it will also cause a bunch of Searchers to attack, trying to kill Henry. Hitting them with the axe once will kill them, though. Surviving the attack will activate a gate at the right side of the room, and a “Recording letter will light up. \n  Entering through this gate will lead Henry to Sammy’s Office, which entrance is also flooded by ink, with a locked closet at the right side of the room. There is a tape recorded by Wally Franks in front of the office. Listening to it will lead Henry to the next objective.\n \n Unlock Wally’s Closet :\n \n In the tape, Wally will state that he lost his keys and that they may be at one of the garbage cans located all around the place. Doing so may lead you to the recording studio, which features a bunch of chairs, an ecram, microphones hanging from the roof, a recording booth, a tape recorded by Susie Campbell, a banjo, a drum, a bass, a violin and a piano downstairs, and a projecting booth, a projector, and a tape recorded by Norman Polk upstairs",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter4.jpg",
-        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/4.jpg",
-        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
-        "isNative": "false"
-      }
-
-    ],
-    "content6": [
-      {
-        "ordered": "image_text",
-        "color": "#f56342",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "",
-        "text": "this is Content 1",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/2.jpg",
-        "text": "1.Find a New Exit : \n \n  Using the axe, break the wood blocking the door on the left side of the room, and walk through it. Then go downstairs until you reach the Utility Shaft 9 entrance. There Henry will see the quote “HE WILL SET US FREE written on the wall (presumably by Sammy Lawrence) next to a Bendy cardboard, cans of Bacon Soup, candles and a banjo.\n Explore the room until Henry finds a tape recorded by Sammy, in which he talks about Bendy as if he was a god, and that he will save him. At the end of the tape, he asks: “Can I get an amen?, and just when the tape ends, Sammy’s voice echoes: “I said, can I get an amen?. Then head to the ink flooded hall, where Henry can hardly walk, and get through it. \n \n There, Henry will see a person passing through carrying a Bendy cardboard cutout, and just when Henry reaches him to ask him for help, he´s gone, leaving the cardboard behind. Move to the right corner of the room to unlock the next objective.",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter2.jpg",
-        "text": "2.Redirect Power to the Gate : \n \n There, Henry will find a closed gate, and you will have to find 3 switches around the place. Two of them are randomly placed in the Utility Shaft 9 room, but the last one is always hidden behind several Bacon Soup cans on the shelf. These cans are located in the left corner of the room, at the base of a destroyed shelf next to the Bendy cardboard. Find and press the other 2 switches and return to the gate. This will unlock the next objective. \n Raise the Gate : At the gate, hit the lever next to it to activate it. The gate will open, and a new objective materializes in the corner",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter3.jpg",
-        "text": "3.Drain the Stairwell : \n \n Next to Henry, attached to the wall, there is a “Power\" switch, which Henry has to turn. This will cause the energy to return to the Music Department room, but it will also cause a bunch of Searchers to attack, trying to kill Henry. Hitting them with the axe once will kill them, though. Surviving the attack will activate a gate at the right side of the room, and a “Recording letter will light up. \n  Entering through this gate will lead Henry to Sammy’s Office, which entrance is also flooded by ink, with a locked closet at the right side of the room. There is a tape recorded by Wally Franks in front of the office. Listening to it will lead Henry to the next objective.\n \n Unlock Wally’s Closet :\n \n In the tape, Wally will state that he lost his keys and that they may be at one of the garbage cans located all around the place. Doing so may lead you to the recording studio, which features a bunch of chairs, an ecram, microphones hanging from the roof, a recording booth, a tape recorded by Susie Campbell, a banjo, a drum, a bass, a violin and a piano downstairs, and a projecting booth, a projector, and a tape recorded by Norman Polk upstairs",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/chapter4.jpg",
-        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF",
-        "style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "20",
-        "isLink": "false",
-        "link_title": "",
-        "setLink": "",
-        "image_link": "content1/4.jpg",
-        "text": "4.Find Sammy’s Sanctuary : \n \n Inside the closet, there are some cans of Bacon Soup and a tape recorded by Sammy. In it, he reveals that he has a sanctuary, just like Joey does, and to enter Henry needs to learn his “favorite song : The song is always a random combination of the five instruments located in the Recording Studio. \n Then, Henry has to go to the projection booth and turn on the projector, then run downstairs and play the combination before the projector turns off. Successfully doing it will open the gate to Sammy’s sanctuary, leading him to the next objective.\n \n  Enter the sanctuary : \n \n Now Henry will have to enter the sanctuary and activate the valve at the bottom of the hall. This will unlock the next objective",
-        "isNative": "false"
-      }
-
-    ]
+    "GuideData": {
+  
+  
+      "AdsController": [
+        {
+          "NetworkAds": "admob",
+          "AdMobId": "pub-3940256099942544",
+  
+          "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+          "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+          "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+  
+          "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+          "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+          "NativeFacebook": "173186393601951_356298065290782"
+  
+        }
+      ],
+  
+      "items": [
+        {
+          "title": "Introduction",
+          "image": "https://i.imgur.com/lX7wgNR.png"
+        },
+        {
+          "title": "Config your in-game settings to get the best performance",
+          "image": "https://i.imgur.com/aFhLNY6.png"
+        },
+        {
+          "title": "Get hold of a good close to mid-range weapon",
+          "image": "https://i.imgur.com/eqCcrHw.png"
+        },
+        {
+          "title": "Secure a good position",
+          "image": "https://i.imgur.com/Yteaocm.png"
+        },
+        {
+          "title": "Force opponents into tight spots and get them with utility",
+          "image": "https://i.imgur.com/66NONzP.png"
+        },
+        {
+          "title": "Try landing in the center of the hot-drop zone",
+          "image": "https://i.imgur.com/IsTUlAm.png"
+        },
+        {
+            "title": "Always focus on one team or player at a time",
+            "image": "https://i.imgur.com/j23pOBl.png"
+          }
+      ],
+  
+      "content1": [
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Introduction",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "20",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://i.imgur.com/lX7wgNR.png",
+          "text": "Free Fire MAX is designed exclusively to deliver a premium gameplay experience in a Battle Royale. Enjoy a variety of exciting game modes with all Free Fire players via exclusive Firelink technology. Experience combat like never before with Ultra HD resolutions and breathtaking effects. Ambush, snipe, and survive; There is only one goal: to survive and be the last one standing.",
+          "isNative": "true"
+        },
+        {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "The overall mechanics of Garena Free Fire MAX are very much like its original version, but its faster and better rendering surely does make it a little easier for snipers to win battles. While the veteran players will have an easier time adjusting, Free Fire MAX can appear very intimidating to complete newbies. Here are the tips and must-knows for beginners, even the veteran players to improve your performance better in every match!",
+            "isNative": "true"
+          }
+      ],
+      "content2": [
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Config your in-game settings to get the best performance",
+          "isNative": "false"
+        },
+        {
+          "ordered": "text_image",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "20",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://i.imgur.com/aFhLNY6.png",
+          "text": "Although a lot of the default settings can well meet most players’ minimum requirements, there are still options for you to ensure the best compatibility and performance.",
+          "isNative": "true"
+        },
+        {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "Sensitivity: sensitivity control has always been an important part of every FPS game. Although the default settings are decent, make sure if it perfectly fits your standards before you enter the battlefield.",
+            "isNative": "true"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "Quick reloads and auto-switching guns: make sure you’ve enabled features like quick reloads/fast auto pickup to improve your efficiency at the game.",
+            "isNative": "true"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "High FPS mode: this is for those of you who play this game on PC emulators. Make sure to enable high FPS mode (120 FPS) if you are using a decent PC device.",
+            "isNative": "true"
+          }
+      ],
+      "content3": [
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Get hold of a good close to mid-range weapon",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "20",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://i.imgur.com/eqCcrHw.png",
+          "text": "When fighting in the hot-drop zone only certain weapons have a chance of guaranteeing success to a player, so try and get your hands on a weapon which is good at close and mid range.",
+          "isNative": "true"
+        },
+        {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "For this, certain players that are picky with their armaments would have to forgo this behaviour and bring in that change mentally of playing with certain specific weapons, that enable them to move quickly and rush at opponents.",
+            "isNative": "true"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "Quick reloads and auto-switching guns: make sure you’ve enabled features like quick reloads/fast auto pickup to improve your efficiency at the game.",
+            "isNative": "true"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "A few weapons that are suitable for this situation are SCAR, UMP, and Vector. All three weapons will aid a player in effectively engaging with multiple opponents, while constantly being able to move around quickly, and rush at them when an opportunity arrises.",
+            "isNative": "true"
+          }
+      ],
+      "content4": [
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Secure a good position",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "20",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://i.imgur.com/Yteaocm.png",
+          "text": "One of the most important aspects that decides which player or squad is more likely to win a fight is positioning. Finding a position with great cover and a good line of sight overlooking the area where all the action is ongoing is crucial to winning the fight.",
+          "isNative": "true"
+        },
+        {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "Garena Free Fire MAX offers various such spots such as houses, rocks, trees, pits, and more within the hot-drop zones, from where players can get a really good hold of the situation, helping them command the tide of the fight if played smartly.",
+            "isNative": "true"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "However, do keep in mind that holding a position too long could turn out to be risky. So make sure to utilize the cover properly and rotate to another such position to keep the opponents on their toes and not get pinned down.",
+            "isNative": "true"
+          }
+      ],
+      "content5": [
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Force opponents into tight spots and get them with utility",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "20",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://i.imgur.com/66NONzP.png",
+          "text": "A great way to tackle players and even entire squads is to push them into a tight corner or a closed spot, with none to limited means of escape, and keep them pinned so they do not escape.",
+          "isNative": "true"
+        },
+        {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "Now, simply chuck your utility like molotovs or grenades to deal heavy area of effect damage to wipe them clean without the risk of rushing in and dying. This ensures you get multiple kills, without taking any risk, or giving up your own positioning.",
+            "isNative": "true"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "How a player can force an enemy into a certain position boils down to game sense and experience, something that one needs to learn by simply playing and understanding the game better.",
+            "isNative": "true"
+          }
+      ],
+      "content6": [
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Try landing in the center of the hot-drop zone",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "20",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://i.imgur.com/IsTUlAm.png",
+          "text": "The best way to ensure that you get maximum kills during hot-drop fights in Garena Free Fire MAX is to play from the center and push outwards. This is the most effective way of securing the area while getting heaps of kills.",
+          "isNative": "true"
+        },
+        {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "Simply put, the team that starts from the center gets a clear upper hand be it with weaponry, positioning, spotting incoming enemies while holding their positions with minimal risk of getting flanked.",
+            "isNative": "true"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "Also, teams that are usually trying to make their way inwards within the hot-drop zone have a high chance of facing other players and squads which often leads to a lot of chaotic fights, and no one wants to get into the middle of a multi squad faceoff.",
+            "isNative": "true"
+          }
+      ],
+      "content7": [
+        {
+          "ordered": "image_text",
+          "color": "#f56342",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "25",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "",
+          "text": "Always focus on one team or player at a time",
+          "isNative": "false"
+        },
+        {
+          "ordered": "image_text",
+          "color": "#FFFFFF",
+          "style": "blood",
+          "gravity": "left",
+          "left": "10",
+          "text_size": "20",
+          "isLink": "false",
+          "link_title": "",
+          "setLink": "",
+          "image_link": "https://i.imgur.com/j23pOBl.png",
+          "text": "With multiple squads and players entering the hot-drop zone it might get overwhelming. In such a situation, it is always good to stay calm and keep your focus on a single player or squad, working towards eliminating them.",
+          "isNative": "true"
+        },
+        {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "As these fights tend to easily get out of control, it is best to stay focussed and goal-oriented, constantly working towards achieving the objective, then switching to a new one, so on and so forth.",
+            "isNative": "true"
+          },
+          {
+            "ordered": "image_text",
+            "color": "#FFFFFF",
+            "style": "blood",
+            "gravity": "left",
+            "left": "10",
+            "text_size": "20",
+            "isLink": "false",
+            "link_title": "",
+            "setLink": "",
+            "image_link": "",
+            "text": "Implementing these five tips on both an individual and team level will guarantee you more success in this risky zone, as you shall come out on top during these 'high risk, high reward' hot-drop fights with a greater chance of obtaining maximum kills.",
+            "isNative": "true"
+          }
+      ]
+     
+    }
   }
-}
